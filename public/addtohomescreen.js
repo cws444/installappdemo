@@ -728,3 +728,5 @@ function _removeToken () {
 window.addToHomescreen = ath;
 
 })(window, document);
+
+console.log("hello")
